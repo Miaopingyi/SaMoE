@@ -1,7 +1,7 @@
 
 # [NeurIPS 2026!] SaMoE
 
-**Biomedical Acquisition-induced Style Shifts as Mixture Shifts: Style-aware Mixture-of-Experts Multimodal Prompt Learning**
+**Title: Biomedical Acquisition-induced Style Shifts as Mixture Shifts: Style-aware Mixture-of-Experts Multimodal Prompt Learning**
 
 ## Overview
 
