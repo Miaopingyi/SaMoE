@@ -62,7 +62,7 @@ See [INSTALL.md](docs/INSTALL.md) for environment setup and pretrained-model req
 
 ## Data Preparation
 
-See [DATASETS.md](docs/DATASETS.md) for the expected directory structure. Select a dataset with `--dataset`; separate dataset YAML files are not required.
+See [DATASETS.md](docs/DATASETS.md) for the expected directory structure. Select a dataset with `--dataset`.
 
 ## Training and Evaluation
 
