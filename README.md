@@ -1,5 +1,5 @@
-***NeurIPS26***
-# SaMoE: Style-aware Mixture-of-Experts Multimodal Prompt Learning
+
+#[NeurIPS 2026!] SaMoE: Style-aware Mixture-of-Experts Multimodal Prompt Learning
 
 **Biomedical Acquisition-induced Style Shifts as Mixture Shifts: Style-aware Mixture-of-Experts Multimodal Prompt Learning**
 
