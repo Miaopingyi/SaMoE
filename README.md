@@ -27,7 +27,7 @@ Biomedical images vary across acquisition sites, imaging protocols, and modaliti
 
 ## Results
 
-The following are selected results reported in the paper, averaged over three runs. They are not new measurements from this code release.
+The following are selected results reported in the paper, averaged over three runs.
 
 ### Base-to-Novel Generalization
 
